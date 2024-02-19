@@ -1,4 +1,4 @@
-# Apache .htaccess
+# 🗄️ - Apache .htaccess
 Fichier de configuration de serveur Apache pour initialise le HTTPS et le cache !
 
 # But de ce projet :
